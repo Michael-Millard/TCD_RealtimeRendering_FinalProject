@@ -4,20 +4,17 @@ This repository is for my final assignment of Real-time Rendering at Trinity Col
 
 <table>
   <tr>
-    <td><img src="screenshots/Buddha_Museum_IOR_1.500_1_surface__trimmed.png" width="200"/></td>
-    <td><img src="screenshots/Buddha_Museum_IOR_1.500_2_surfaces_dn_dv_trimmed.png" width="200"/></td>
-    <td><img src="screenshots/Buddha_Museum_IOR_1.500_ray_trimmed.png" width="200"/></td>
+    <td><img src="screenshots/Buddha_Museum_IOR_1.500_1_surface__trimmed.png" width="250"/></td>
+    <td><img src="screenshots/Buddha_Museum_IOR_1.500_2_surfaces_dn_dv_trimmed.png" width="250"/></td>
+    <td><img src="screenshots/Buddha_Museum_IOR_1.500_ray_trimmed.png" width="250"/></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="screenshots/Monkey_Night Sky_IOR_1.500_1_surface__trimmed.png
-" width="250"/></td>
-        <td><img src="screenshots/Monkey_Night Sky_IOR_1.500_2_surfaces_dn_dv_trimmed.png
-" width="250"/></td>
-        <td><img src="screenshots/Monkey_Night Sky_IOR_1.500_ray_trimmed.png
-" width="250"/></td>
+    <td><img src="screenshots/Monkey_Night Sky_IOR_1.500_1_surface__trimmed.png" width="250"/></td>
+    <td><img src="screenshots/Monkey_Night Sky_IOR_1.500_2_surfaces_dn_dv_trimmed.png" width="250"/></td>
+    <td><img src="screenshots/Monkey_Night Sky_IOR_1.500_ray_trimmed.png" width="250"/></td>
   </tr>
 </table>
 
